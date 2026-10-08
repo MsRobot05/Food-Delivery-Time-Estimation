@@ -220,8 +220,13 @@ http://localhost:8501
 
 ---
 
-## 👤 Author
+## Acknowledgements
 
-Built as a business-focused Machine Learning system demonstrating predictive analytics and operational intelligence.
+Conceived together with Shweta Pi, who also contributed the presentation. Implementation (data processing, modeling, Streamlit app) by Ani.
+
+## Author
+
+Built by Ani (Shrestha Sengupta), MIT-WPU, Pune.
+[GitHub: MsRobot05](https://github.com/MsRobot05)
 
 
